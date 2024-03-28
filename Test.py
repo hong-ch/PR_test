@@ -6,6 +6,6 @@ major = "Computer Science"
 
 print("Hello! I'm", name)
 print("My student id is", id)
-print("And I'm majoring in Computer Science") # touched by main-id
+print("And my major is Computer Science") # touched by sub-id
 
 print("실습1-2 코드 수정")
