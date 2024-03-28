@@ -2,7 +2,7 @@
 
 name = "Changhee Hong"
 id = 202204495
-major = "Computer Science"
+major = input() # 추가로 수정하고 PR 보냈습니다
 
 print("Hello! I'm", name)
 print("My student id is", id)
