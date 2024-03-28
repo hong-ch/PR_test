@@ -1,7 +1,7 @@
 # 홍창희, 202204495, 컴퓨터공학전공
 
-name = "Changhee Hong"
-id = 202204495
+name = input()
+id = int(input())
 major = "Computer Science"
 
 print("Hello! I'm", name)
